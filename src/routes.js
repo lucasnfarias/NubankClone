@@ -9,7 +9,7 @@ const AppRoutes = () => (
   <App.Navigator
     screenOptions={{
       headerShown: false,
-      cardStyle: { backgroundColor: '#312e38' },
+      headerStyle: { backgroundColor: '#8B10AE' },
     }}
   >
     <App.Screen name="Main" component={Main} />

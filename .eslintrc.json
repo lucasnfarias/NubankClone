@@ -39,6 +39,7 @@
       "react/jsx-props-no-spreading": "off",
       "react/jsx-curly-newline": "off",
       "react/state-in-constructor": "off",
+      "react/prop-types": "off",
       "react/static-property-placement": "off",
       "react-native/no-color-literals": "off",
       "react-native/sort-styles": "off",
